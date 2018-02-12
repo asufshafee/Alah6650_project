@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "376095316926",
+    "firebase_url": "https://linkbike-c0cd0.firebaseio.com",
+    "project_id": "linkbike-c0cd0",
+    "storage_bucket": "linkbike-c0cd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376095316926:android:182dfe5c606c4b9d",
+        "android_client_info": {
+          "package_name": "com.example.amal.linkbike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376095316926-8i3ta7vrlnu8ucpfvn32ut3cld7e7i8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsPlROkzjPoEezZwBgAaOMoWmiV_comIU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

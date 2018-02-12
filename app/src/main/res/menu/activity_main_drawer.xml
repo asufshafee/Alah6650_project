@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="Home"
+            android:icon="@drawable/ic_home_black_24dp"/>
+        <item
+            android:id="@+id/profile"
+            android:title="Profile"
+            android:icon="@drawable/ic_action_person"/>
+        <item
+            android:id="@+id/mywallet"
+            android:title="My Wallet"
+            android:icon="@drawable/ic_action_wallet"/>
+        <item
+            android:id="@+id/mytrip"
+            android:title="My Rides"
+            android:icon="@drawable/ic_action_person"/>
+        <item
+            android:id="@+id/freerides"
+            android:title="Free Rides"
+            android:icon="@drawable/ic_action_card_giftcard"/>
+        <item
+            android:id="@+id/feedback"
+            android:title="Feedback"
+            android:icon="@drawable/ic_action_feedback"/>
+        <item
+            android:id="@+id/facebook"
+            android:title="Facebook"
+            android:icon="@drawable/ic_action_facebook"/>
+        <item
+            android:id="@+id/lagout"
+            android:title="Lagout"
+            android:icon="@drawable/ic_action_power_settings_new"/>
+    </group>
+
+</menu>
